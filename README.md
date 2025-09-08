@@ -189,3 +189,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Tailwind CSS](https://tailwindcss.com/) for the utility-first CSS framework
 - [React](https://reactjs.org/) for the awesome UI library
 - [Framer Motion](https://www.framer.com/motion/) for smooth animations
+
+Deployed Project Link: https://sage-groove-449914-d0.web.app/
+
+GitHub Repository Link: https://github.com/shubhangiathakare/student-dashboard
