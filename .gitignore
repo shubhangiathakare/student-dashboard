@@ -1,0 +1,110 @@
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Production
+/build
+/dist
+
+# Local environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Firebase
+.firebase/
+firebase-debug.log
+firebase-debug.*.log
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Vite cache
+.vite/
+
+# Local Netlify folder
+.netlify
+
+# Local development
+.cache/
+
+# PWA workbox
+**/public/workbox-*.js
+**/public/worker-*.js
+**/public/sw.js
+**/public/firebase-messaging-sw.js
+
+# Misc
+.DS_Store
+*.pem
+
+# Logs
+logs
+*.log
+
+# Local development
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Testing
+/coverage
+.nyc_output
+
+# Debug logs
+debug.log
+
+# Local development
+.vercel
+.next
+
+# Local development
+.cache/
+.parcel-cache/
+
+# Local development
+.vercel
+
+# Local development
+.env
+
+# Local development
+.pnp
+.pnp.js
+
+# Local development
+.serverless/
+
+# Local development
+.vscode/
+
+# Local development
+.idea/
+
+# Local development
+*.sublime-project
+*.sublime-workspace
+
+# Local development
+*.sublime-*
