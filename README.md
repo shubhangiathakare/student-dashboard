@@ -18,7 +18,7 @@ Includes **Framer Motion animations**, **Firebase Authentication**, and **Firest
 - **Frontend**: React 18, React Router v6
 - **Styling**: Tailwind CSS with dark mode
 - **Animations**: Framer Motion
-- **State Management**: React Context API
+- **State Management**: React Context API 
 - **Backend**: Firebase (Authentication, Firestore, Storage)
 - **Build Tool**: Vite
 - **Form Handling**: React Hook Form with Yup validation
