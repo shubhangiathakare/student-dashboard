@@ -50,38 +50,19 @@ Includes **Framer Motion animations**, **Firebase Authentication**, and **Firest
    npm install
    ```
 
-3. **Set up Firebase**
-   - Create a new project in the [Firebase Console](https://console.firebase.google.com/)
-   - Enable Authentication (Google Sign-In)
-   - Create a Firestore database in production mode
-   - Register a web app in your Firebase project
-   - Copy your Firebase config from Project Settings > Your apps > Firebase SDK snippet
-
-4. **Configure Environment Variables**
-   Create a `.env` file in the root directory and add your Firebase config:
-   ```env
-   VITE_FIREBASE_API_KEY=your-api-key
-   VITE_FIREBASE_AUTH_DOMAIN=your-project-id.firebaseapp.com
-   VITE_FIREBASE_PROJECT_ID=your-project-id
-   VITE_FIREBASE_STORAGE_BUCKET=your-project-id.appspot.com
-   VITE_FIREBASE_MESSAGING_SENDER_ID=your-messaging-sender-id
-   VITE_FIREBASE_APP_ID=your-app-id
-   VITE_FIREBASE_MEASUREMENT_ID=your-measurement-id
-   ```
-
-5. **Deploy Security Rules**
+3. **Deploy Security Rules**
    ```bash
    npm run deploy:rules
    ```
    This will guide you through the process of deploying Firestore security rules.
 
-6. **Start Development Server**
+4. **Start Development Server**
    ```bash
    npm run dev
    ```
    Open the URL shown in the terminal (usually http://localhost:5173).
 
-7. **Build for Production**
+5. **Build for Production**
    ```bash
    npm run build
    npm run preview
