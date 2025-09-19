@@ -1,6 +1,6 @@
  # Student Management Dashboard
 
-A modern, interactive **React + Vite + Tailwind ** SPA to manage students with authentication and real-time database.  
+A modern, interactive **React + Vite + Tailwind** SPA to manage students with authentication and real-time database.  
 Includes **Framer Motion animations**, **Firebase Authentication**, and **Firestore Database** for a complete full-stack experience.
 
 ## ✨ Features
