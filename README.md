@@ -6,7 +6,7 @@ Includes **Framer Motion animations**, **Firebase Authentication**, and **Firest
 ## ✨ Features
 - 🔒 **Authentication** - Google Sign-In with Firebase Authentication  
 - 📝 **CRUD Operations** - Add, view, edit, and delete students
-- 🔍 **Real-time Search** - Fast client-side search with Firestore indexing
+- 🔍 **Real-time Search** - Fast client-side search with Firestore indexing 
 - 🌓 **Dark/Light Mode** - Built-in theme switching
 - 📱 **Fully Responsive** - Works on all device sizes
 - 🎨 **Modern UI** - Clean, accessible interface with Tailwind CSS
