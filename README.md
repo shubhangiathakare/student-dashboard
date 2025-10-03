@@ -4,7 +4,7 @@ A modern, interactive **React + Vite + Tailwind** SPA to manage students with au
 Includes **Framer Motion animations**, **Firebase Authentication**, and **Firestore Database** for a complete full-stack experience.
 
 ## ✨ Features
-- 🔒 **Authentication** - Google Sign-In with Firebase Authentication 
+- 🔒 **Authentication** - Google Sign-In with Firebase Authentication  
 - 📝 **CRUD Operations** - Add, view, edit, and delete students
 - 🔍 **Real-time Search** - Fast client-side search with Firestore indexing
 - 🌓 **Dark/Light Mode** - Built-in theme switching
