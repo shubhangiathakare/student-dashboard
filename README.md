@@ -8,7 +8,7 @@ Includes **Framer Motion animations**, **Firebase Authentication**, and **Firest
 - 📝 **CRUD Operations** - Add, view, edit, and delete students
 - 🔍 **Real-time Search** - Fast client-side search with Firestore indexing 
 - 🌓 **Dark/Light Mode** - Built-in theme switching
-- 📱 **Fully Responsive** - Works on all device sizes
+- 📱 **Fully Responsive** - Works on all device sizes 
 - 🎨 **Modern UI** - Clean, accessible interface with Tailwind CSS
 - 🚀 **Fast Performance** - Optimized with code splitting and lazy loading
 - 📊 **Data Visualization** - Charts for student statistics
